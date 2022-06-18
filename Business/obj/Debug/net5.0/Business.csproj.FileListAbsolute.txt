@@ -1,0 +1,15 @@
+C:\Users\savaş\source\repos\EnginDemirog\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\savaş\source\repos\EnginDemirog\Business\bin\Debug\net5.0\Business.dll
+C:\Users\savaş\source\repos\EnginDemirog\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\savaş\source\repos\EnginDemirog\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\savaş\source\repos\EnginDemirog\Business\bin\Debug\net5.0\Entities.dll
+C:\Users\savaş\source\repos\EnginDemirog\Business\bin\Debug\net5.0\Entities.pdb
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.dll
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\savaş\source\repos\EnginDemirog\Business\obj\Debug\net5.0\Business.pdb
